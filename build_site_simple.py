@@ -143,7 +143,7 @@ def render_templates(params: Params, data: Data):
         include_plotlyjs="cdn",  # True, "cdn" to get link
         full_html=False,
         default_height="500px",
-        default_width="70%",
+        default_width="100%",
         div_id="incFig",
     )
 
