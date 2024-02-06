@@ -162,3 +162,4 @@ cython_debug/
 ### CUSTOM IGNORES
 .DS_STORE
 */.DS_STORE
+start_server.sh
